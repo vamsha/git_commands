@@ -5,7 +5,7 @@ A few general things to remember before you push to develop.
 2.	Keep the commit message to a single line if possible. Add more info in the Jira. Include the Jira number in the commit message. A sample below
       "<JIRA_number>: <message>"
 
-A typical sample work flow looks like below. Say you are working on Jira AP-1187. 
+A typical sample work flow looks like below.
 
 	* Branch off from origin/develop
     		* git fetch origin
